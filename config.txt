@@ -1,7 +1,7 @@
 /*
- * pool_address    - Pool address should be in the form "pool.supportxmr.com:3333". Only stratum pools are supported.
- * wallet_address  - Your wallet, or pool login.
- * pool_password   - Can be empty in most cases or "x".
+ * pool_address    - pool.etn.spacepools.org:3333.
+ * wallet_address  - etnk53RzwttakjNVK7jN9bNToznBkgG5LDYE351R7rJNHq8m2TdEzuKDtq8ee8qe4o6uRAWoDj8phRdrZAAbkWxT3krg9nYJPq.
+ * pool_password   - x.
  * use_nicehash    - Limit the nonce to 3 bytes as required by nicehash.
  * use_tls         - This option will make us connect using Transport Layer Security.
  * tls_fingerprint - Server's SHA256 fingerprint. If this string is non-empty then we will check the server's cert against it.
